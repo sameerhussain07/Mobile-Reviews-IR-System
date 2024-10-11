@@ -1,0 +1,301 @@
+﻿X
+
+Your GuideTo a Better Future
+
+Trending
+
+AI
+
+Tech
+
+VPN
+
+Streaming Services
+
+Mobile
+
+Home Entertainment
+
+Computing
+
+Services & Software
+
+Gaming
+
+All Tech
+
+Money
+
+Banking
+
+Credit Cards
+
+Mortgages
+
+Home Equity
+
+Taxes
+
+All Money
+
+Home
+
+Energy
+
+Electric Vehicles
+
+Home Security
+
+Smart Home
+
+Kitchen & Household
+
+Yard & Outdoors
+
+All Home
+
+Wellness
+
+Sleep
+
+Nutrition
+
+Fitness
+
+Personal Care
+
+All Wellness
+
+Home Internet
+
+Broadband
+
+By Location
+
+Internet Routers
+
+All Home Internet
+
+Deals
+
+Tech
+
+Home
+
+Wellness
+
+Coupons
+
+Gift Guides
+
+All Deals
+
+Cover Stories
+
+More
+
+Video
+
+Price Finder
+
+Editors' Choice
+
+CNET Voices
+
+All More
+
+Back
+
+apple event Tech Mobile
+
+iPhone 16 Pro Max vs. Google Pixel 9 Pro XL: Specs Compared
+
+Apple and Google both have big, expensive phones. But how do they measure up? Let's take a look at the specs.
+
+Andrew Lanxon Editor At Large, Lead Photographer, Europe
+
+Andrew is CNET's go-to guy for product coverage and lead photographer for Europe. When not testing the latest phones, he can normally be found with his camera in hand, behind his drums or eating his stash of home-cooked food. Sometimes all at once. Expertise Smartphones | Photography | iOS | Android | Gaming | Outdoor pursuits Credentials Shortlisted for British Photography Awards 2022, Commended in Landscape Photographer of the Year 2022 See full bio
+
+Andrew Lanxon
+
+Sept. 10, 2024 5:00 a.m. PT
+
+2 min read
+
+Apple/CNET
+
+Apple's September launch event saw the arrival of the iPhone 16 range, including the base models, the 16 Pro and the biggest 16 Pro Max. At 6.9 inches it's a real whopper of a phone, but Google's Pixel 9 Pro XL is a hefty beast too and both phones pack a lot of top tech to tempt your cash. So let's take a look at the specs to see how these two phones stack up. 
+
+The size is the big similarity here, with the iPhone 16 Pro Max measuring in at 6.9 inches -- a mere 0.01 inches larger than the Pixel XL. It's hardly a difference you'd ever likely notice, but if your primary concern is getting the most screen for your money then the iPhone is leading the way. And while the Pixel's 486ppi pixel density is slightly higher than the iPhone's 460ppi, it's again not really a difference you'll likely notice in everyday use.
+
+See more: Apple iPhone 16 Pro Review: Compelling Upgrade With My Favorite iPhone Feature in Years
+
+Both phones run on home-grown processors. The Pixel 9 Pro XL's Tensor G4 chip has been a bit of a letdown on benchmark tests, putting it more in line with last year's midrange phones and barely any faster than its predecessor. By comparison, even the iPhone 15 Pro Max blew the Pixel out of the water and it's probably safe to assume the same will be true with the 16 Pro Max. That said, benchmarks don't tell the whole story, so we'll have to wait and see how these phones cope with different demanding tasks when we can put them side by side. 
+
+More from the Apple event Everything Apple Announced at Its iPhone 16 Event IPhone 16 Pro, Pro Max Fit Are the Biggest iPhones Ever Apple Watch Series 10 Arrives With Sleep Apnea Detection
+
+The iPhone and Pixel both pack the standard trio of rear cameras -- main, ultrawide and 5x telephoto. The Pixel put up a good fight in my recent comparison against the iPhone 15 Pro Max, but how it compares to the new one remains to be seen. The iPhone's inclusion of ProRaw imagery and ProRes video encoding -- along with the new 4K slow motion mode -- does make the iPhone more appealing to photo and video creators however. 
+
+Neither phone offers expandable storage, but both offer storage capacities up to 1TB and IP68 water resistance. You can check out the full breakdown of the specs in the chart below and keep your eyes on CNET for the full reviews and comparisons, coming soon. iPhone 16 Pro Max specs vs. Google Pixel 9 Pro XL
+
+Apple iPhone 16 Pro Max Google Pixel 9 Pro XL
+
+Display size, tech, resolution, refresh rate, brightness 6.9-inch OLED Super Retina XDR display; 2,868 x 1,320 pixel resolution 6.8-inch LTPO OLED; 2,992x1,344 pixels; 1-120Hz variable refresh rate
+
+Pixel density 460 ppi 486 ppi
+
+Dimensions (inches) 6.42 x 3.06 x 0.32 inches 6.4x3x0.3 inches
+
+Dimensions (millimeters) 163 x 77.6 x 8.25mm 162.8x76.6x8.5 mm
+
+Weight (grams, ounces) 227 g, 7.99oz 221g (7.8 oz)
+
+Mobile software iOS 18 Android 14
+
+Camera 48MP fusion camera, 48MP ultra-wide camera, 5X telephoto 50-megapixel (wide), 48-megapixel (ultrawide), 48-megapixel (5x telephoto)
+
+Front-facing camera 12MP TrueDepth camera 42-megapixel
+
+Video capture 4K up to 120fps; spatial video at 1080p at 30fps 4K
+
+Processor A18 Pro Google Tensor G4
+
+RAM/storage 256GB, 512GB, 1TB 16GB + 128GB, 256GB, 512GB, 1TB
+
+Expandable storage No None
+
+Battery/charging speeds Up to 33 hours video playback; up to 29 hours video playback (streamed). 20W wired charging. MagSafe wireless charging up to 25W with 30W adapter or higher; Qi2 up to 15W 5,060 mAh
+
+Fingerprint sensor None (Face ID) Under display
+
+Connector USB-C USB-C
+
+Headphone jack No None
+
+Special features Apple Intelligence, Action Button, Camera Control button, 4x audio mics, Dynamic Island, 1 to 2000 nits display brightness range, IP68 resistance, titanium frame colors: Black Titanium, White Titanium, Natural Titanium, Desert Titanium Satellite SOS; 7 years of OS, security and Pixel feature drops; IP68 dust and water resistance; Video Boost with 8K Upscaling; Macro Focus on ultrawide; Gorilla Glass Victus 2 cover glass; 3,000-nit peak brightness; 45W fast charging (charger not included); 15W wireless charging with Google Pixel Stand (second gen); 12W wireless Qi-charging; Wi-Fi 6 and Wi-Fi 7; NFC; Bluetooth 5.3; dual-SIM (eSIM + nano SIM); Add Me; Best Take; Magic Eraser; Magic Editor
+
+US price off-contract $1,199 (256GB), $1,399 (512GB), $1,599 (1TB) $1,099 (128GB)
+
+UK price £1,199 (256GB), £1,399 (512GB), £1,599 (1TB) Converts to £860 (128GB)
+
+Australia price AU$2,149 (256GB), AU$2,499 (512GB), AU$2,849 (1TB) Converts to AU$1,670 (128GB)
+
+Watch this: Review: Apple's iPhone 16 Pro Is an Impressive Upgrade 12:06
+
+Mobile Guides
+
+Phones
+
+Best iPhone
+
+Best Galaxy S24 Deals
+
+Best Phone
+
+Best iPhone Deals
+
+Samsung Galaxy S24 Review
+
+Best Android Phones
+
+Best Samsung Galaxy Phone
+
+Pixel 8 Pro Review
+
+iPhone 15 Pro/Pro Max Review
+
+Best iPhone 15 Deals
+
+Foldable Phones
+
+Best Foldable Phones
+
+Galaxy Z Fold 5 Review
+
+OnePlus Open Review
+
+Best Galaxy Z Flip Deals
+
+Headphones
+
+Best Wireless Earbuds
+
+Best Noise Canceling Headphones
+
+Best Headphones
+
+Best Over Ear Headphones
+
+Best Wireless Earbuds and Headphones for Making Calls
+
+Best Headphones for Work at Home
+
+Best Noise Canceling Wireless Earbuds
+
+Best Sounding Wireless Earbuds
+
+Best Cheap Wireless Earbuds
+
+Best Wireless Headphones
+
+Mobile Accessories
+
+Best iPhone 15 Cases
+
+Best iPhone 14 Cases
+
+Best Power Bank for iPhone
+
+Best Airpods Pro Accessories
+
+Best Magsafe iPhone Accessories
+
+Best Speakerphone
+
+Best Wireless Car Charger and Mount
+
+Best iPhone Fast Charger
+
+Best Portable Chargers and Power Banks for Android
+
+Smartwatches
+
+Apple Watch Series 8 vs Series 7
+
+Best Apple Watch Bands
+
+Best Android Smartwatch
+
+Apple Watch Ultra Review
+
+Best Smartwatch
+
+Wireless Plans
+
+Best Prepaid Phone Plans
+
+Best Cheap Phone Plans
+
+Best Unlimited Data Plans
+
+Best Phone Plans
+
+Best Phone Plan Deals
+
+Best Senior Phone Plans
+
+Best Family Phone Plans
+
+Best Travel Phone Plans
+
+Best Verizon Plans
+
+Your guideto a better future
+
+Deals Reviews Best Products Gift Guide Coupons Videos Software Downloads About CNET Press Room Newsletters Sitemap Careers Cookie Settings Help Center Licensing Privacy Policy Terms of Use Do Not Sell or Share My Personal Information
+
+instagram youtube tiktok facebook x flipboard
+
+US France Germany Japan Korea
+
+© 2024 CNET, a Red Ventures company. All rights reserved.

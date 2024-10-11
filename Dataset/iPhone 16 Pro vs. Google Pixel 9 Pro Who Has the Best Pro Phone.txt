@@ -1,0 +1,455 @@
+﻿How-To Geek
+
+Menu
+
+Sign in now
+
+Close
+
+Desktop
+
+Submenu
+
+Windows
+
+Mac
+
+Linux
+
+Chromebook
+
+Mobile
+
+Submenu
+
+Android
+
+iPhone
+
+Carriers
+
+Hardware
+
+Submenu
+
+Computer Hardware
+
+Wi-Fi & Networking
+
+Smart Home
+
+eReaders
+
+Audio
+
+TVs
+
+Web
+
+Submenu
+
+Web Apps
+
+Social Media
+
+Computer History
+
+Cyber Security
+
+Google
+
+Microsoft
+
+Privacy & Security
+
+Cutting Edge
+
+Submenu
+
+Virtual Reality
+
+AI & Machine Learning
+
+Lifestyle
+
+Submenu
+
+Gaming
+
+Streaming
+
+Photography
+
+DIY
+
+Reviews
+
+Buying Guides
+
+Deals
+
+Sign in
+
+Newsletter
+
+Trending
+
+Windows
+
+iPhone
+
+Android
+
+Streaming
+
+Microsoft Excel
+
+Deals
+
+Close
+
+iPhone 16 Pro vs. Google Pixel 9 Pro: Who Has the Best Pro Phone?
+
+Apple iPhone
+
+By 
+
+Andy Betts
+
+Published 13 hours ago
+
+Thread
+
+Your changes have been saved
+
+Email is sent
+
+Email has already been sent
+
+close Please verify your email address.
+
+Send confirmation email
+
+close You’ve reached your account maximum for followed topics. Manage Your List
+
+Follow
+
+Followed
+
+Follow with Notifications
+
+Follow
+
+Unfollow
+
+Share
+
+Facebook
+
+X
+
+LinkedIn
+
+Reddit
+
+Flipboard
+
+Copy link
+
+Email
+
+Link copied to clipboard
+
+Apple iPhone
+
+Related
+
+10:40
+
+iPhone 16 Pro: All the Features Apple ‘Borrowed’ From Android
+
+Apple Watch Series 10 vs. Apple Watch Ultra 2: What's Extra?
+
+10 Great iPhone Games That Won't Fill up Your Storage
+
+Sign in to your How-To Geek account
+
+Lucas Gouveia / How-To Geek | Apple | Google
+
+Key Takeaways
+
+The iPhone 16 Pro has more buttons, including an Action Button and Camera Control, making it more user-friendly. The Pixel 9 Pro's screen is brighter, with a touch higher resolution compared to the iPhone, although the real-world difference may be minimal. The iPhone 16 Pro's A18 Pro chip is far more powerful than the Tensor G4 chip in the Pixel 9 Pro. It's ideal for gaming and AI applications.
+
+If you're in the market for a flagship smartphone, the iPhone 16 Pro and the Pixel 9 Pro are two of the best choices available to you. But on the surface, they have similar looks, prices, and specs, so how exactly do they compare? And is one an obviously better choice than the other?
+
+They Look the Same, but the iPhone Has Better Buttons
+
+Hannah Stryker / How-To Geek
+
+When it comes to design, you'll have to look pretty hard to spot the differences. The once-boxier design of the Pixel has given way to iPhone-style rounded corners, they both have a glass front and back, and they're virtually the same size—the weight and thickness are identical, and the Pixel is very slightly taller and wider (which in turn means very slightly larger bezels).
+
+The iPhone has a titanium frame instead of aluminum—although the benefits are negligible. It also has the larger Dynamic Island instead of the Pixel's hole-punch camera and a square camera housing on the back rather than the Pixel's distinctive camera bar.
+
+Apple
+
+The most interesting design differences are the two extra buttons on the side of the iPhone 16 Pro. There's the programmable Action Button, which you can assign to an everyday task like turning on the flashlight or recording a voice note.
+
+Apple
+
+And there's the all-new Camera Control button that you can use to launch the camera, zoom, switch shooting modes, and much more. It's one of the best features in the iPhone 16 range.
+
+The Pixel's Screen Gets Brighter
+
+Hannah Stryker / How-To Geek
+
+The iPhone 16 Pro and Pixel 9 Pro both have 6.3-inch OLED displays with a refresh rate that tops out at 120Hz for buttery smooth animations. Both drop as low as 1Hz to improve battery performance.
+
+The Pixel's display has a slightly higher resolution, with a pixel density of 495 pixels per inch compared to the 460ppi of the iPhone. In reality, you're unlikely to notice any difference. It's likely to be a similar story with the brightness, which tops out at 2000 nits on the iPhone, and an eye-wateringly bright 3000 on the Pixel. Google's phone will handle searingly bright sunlight better than Apple's, but in everyday use you're not likely to see much difference.
+
+The iPhone uses the latest generation Ceramic Shield glass, which Apple claims is twice as tough as any other smartphone glass. It's made by Corning, the same company that makes the Gorilla Glass Victus 2 on the Pixel 9 Pro. There's no easy way to test which is better, not least because Apple doesn't say what it means by "tougher." Either way, you might not need a screen protector anymore.
+
+The Pixel Has a Brighter Ultra-Wide Camera
+
+Hannah Stryker / How-To Geek
+
+The two phones have similar camera setups, with some minor differences. The main camera on the Pixel 9 Pro has a 25mm focal length, a 50-megapixel resolution, and a large f/1.68 aperture. The iPhone is a touch wider at 24mm, has a lower resolution at 48MP, and a slightly darker lens at f/1.78. The iPhone's sensor is also marginally bigger. In reality, none of these differences will be significant.
+
+Both phones have a periscope telephoto lens with a 5X zoom and optical image stabilization. The obvious difference is that the Pixel's sensor is 48MP, and the iPhone's is 12MP. More pixels don't mean better photos, of course, but you would expect the Pixel to capture more detail.
+
+Perhaps the biggest difference between the cameras and the ultra-wide option is that The Pixel's lens is noticeably brighter at f/1.7, compared to the iPhone's f/2.2 aperture. This should help when shooting in low-light conditions.
+
+The camera app in the Pixel 9 Pro packs in more features for manual photography than you get in the regular Pixel 9, yet the capabilities lag behind the iPhone in certain ways.
+
+Apple
+
+For example, the iPhone can shoot 4K video at 120fps while the Pixel is limited to 60fps. The iPhone also makes it easy to change the look of your photos on the fly with its Photographic Styles. You can either use these presets with their default settings or tweak the colors as you go. The Pixel camera app has far fewer options in this regard.
+
+Plus, there's the Camera Control button on the iPhone that we've already mentioned. It gives the phone the feel of a real camera.
+
+Apple
+
+Battery Life Should Be the Same Apple doesn't publish detailed specs of the battery in the iPhone 16 Pro, so it's hard to make a direct comparison between the two devices. The company claims the phone is good for 27 hours of video playback, while Google's handset is described as offering "24+ hour battery life."
+
+Make of that what you will, but there's unlikely to be a major difference between the two.
+
+Charging speeds are similar as well. 30 minutes of charging takes the Pixel to 55% (at 27W) and the iPhone to 50% (at 20W). They both offer faster wireless charging with their own accessories—21W using the Pixel Stand and 25W with MagSafe—and slower via a Qi-compatible charger (12W and 15W, respectively).
+
+Apple's A18 Pro Is Unbeatable
+
+Apple
+
+The core internals are where the two devices differ the most. Apple's A-series chips are always the most powerful you can get in a smartphone, and Google has stated that it isn't chasing raw speed or benchmark records with its Tensor chips.
+
+Apple says that the A18 Pro chip in the iPhone 16 Pro delivers 15% faster CPU performance and 20% faster GPU performance than the iPhone 15 Pro, which already massively outperformed the Pixel 9 Pro in benchmark tests. Built on a 3nm fabrication process, it is perhaps the biggest selling point of the new model, especially if you're into gaming.
+
+But while the Tensor G4 chip in the Pixel 9 Pro is inevitably slower, that doesn't mean it's slow. Both chipsets are optimized for AI, which will become an increasingly important part of Android and iOS in the future.
+
+Both Phones Are Designed for AI
+
+Apple
+
+The iPhone 16 Pro launched with iOS 18 and the Google Pixel 9 Pro launched with Android 14. This is a generation old, but the Pixel is good for seven major OS updates. Apple doesn't put a limit on how many updates it provides, but iPhones are famously well-supported (expect five years at least).
+
+Hannah Stryker / How-To Geek
+
+Both phones are also designed for AI through Apple Intelligence on the iPhone and Gemini on the Pixel. Both systems are still in their infancy, however, and their availability will depend on where you are in the world.
+
+The Two Pro Phones Cost the Same (Just About) Both phones are available with four amounts of storage: 128GB, 256GB, 512GB, and 1TB. The prices are the same, apart from the highest tier where the Pixel undercuts the iPhone by $50.
+
+128GB
+
+256GB
+
+512GB
+
+1TB
+
+iPhone 16 Pro
+
+$999
+
+$1099
+
+$1299
+
+$1499
+
+Pixel 9 Pro
+
+$999
+
+$1099
+
+$1299
+
+$1449
+
+There are remarkably few differences between the iPhone 16 Pro and the Google Pixel 9 Pro. They look similar, have the same size screens, are pretty much the same weight, the same price, and have largely the same set of features.
+
+The iPhone is undoubtedly a lot more powerful thanks to the A18 Pro chipset, and it has some nice innovations, particularly in the form of the Camera Control button. Whether that's enough to switch platforms if you're already invested in Android is another matter. The differences are just not that great.
+
+Apple iPhone 16 Pro
+
+A version of Apple's newest iPhone with a larger screen featuring a camera button, a programmable action button, and artificial intelligence features.
+
+See at Apple
+
+Google Pixel 9 Pro
+
+The Google Pixel 9 Pro features a sophisticated design, a powerful Tensor G4 processor, and 16 GB of RAM, making it ideal for advanced AI applications, stunning photos, and videos. It includes a pro triple rear camera system, a 42 MP front camera, and the brightest Super Actua display, offering an immersive experience in two sizes. Pricing starts at $999.
+
+See at Google Store$999 at AmazonSee at Best Buy
+
+Apple iPhone
+
+Android
+
+Pixel
+
+Your changes have been saved
+
+Email is sent
+
+Email has already been sent
+
+close Please verify your email address.
+
+Send confirmation email
+
+close You’ve reached your account maximum for followed topics. Manage Your List
+
+Follow
+
+Followed
+
+Follow with Notifications
+
+Follow
+
+Unfollow
+
+Readers like you help support How-To Geek. When you make a purchase using links on our site, we may earn an affiliate commission. Read More.
+
+Close
+
+Thread
+
+Sign in to your How-To Geek account
+
+We want to hear from you! Share your opinions in the thread below and remember to keep it respectful.
+
+Be the first to post
+
+Attachment(s)
+
+Please respect our community guidelines. No links, inappropriate language, or spam.
+
+Your comment has not been saved Send confirmation email
+
+This thread is open for discussion. Be the first to post your thoughts.
+
+Terms Privacy Feedback
+
+Recommended
+
+Your iPhone's Control Center is Different in iOS 18: Here's What You Need to Know
+
+Apple iPhone
+
+Command your Control Center like a pro.
+
+9 hours ago
+
+How to Lock and Hide Apps on iPhone or iPad
+
+Apple iPhone
+
+Deny access to your apps or make them disappear completely.
+
+2 days ago
+
+I'm Not Sure I Trust Apple's AI This Deep in My Digital Life
+
+Apple iPhone
+
+Apple has a good reputation when it comes to privacy, but no system is infallible.
+
+1
+
+1 day ago
+
+The Apple Watch Series 10 Is Still Missing This Series 6 Feature
+
+Apple iPhone
+
+You might want to put off your Apple Watch upgrade.
+
+9 hours ago
+
+How to Wirelessly Transfer Files Between Windows, macOS, Linux, and Mobile
+
+Files
+
+This AirDrop killer works with anything.
+
+17
+
+Aug 29, 2024
+
+My Favorite iPhone 16 Feature Has Nothing To Do With AI or the Camera
+
+Apple iPhone
+
+New wireless and wired charging speeds present great possibilities.
+
+1 day ago
+
+Desktop
+
+Mobile
+
+I Have One Subscription for Hundreds of Mac Apps—Should You?
+
+1 day ago
+
+The New Safari Update Breaks Some Web Pages
+
+1 day ago
+
+Is Apple One Worth the Money?
+
+1 day ago
+
+See More
+
+These Changes Make the iPhone 16 More Repairable
+
+7 hours ago
+
+T-Mobile Wants More AI Chatbots in Customer Support
+
+7 hours ago
+
+How to See Who Is Following You on Facebook
+
+1 day ago
+
+See More
+
+Trending Now
+
+The Best USB-C Cables of 2024
+
+Logitech’s New Wireless Keyboard Has a Copilot Key
+
+HTC Vive Returns to PC VR With the Focus Vision XR
+
+Join Our Team Our Audience About Us Press & Events Contact Us
+
+Follow Us
+
+Advertising Careers Terms Privacy Policies
+
+How-To Geek is part of the Valnet Publishing Group
+
+Copyright © 2024 Valnet Inc.

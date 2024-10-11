@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Results</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen p-6">
+
+    <div class="max-w-4xl mx-auto bg-white p-6 rounded-lg shadow-md">
+        <!-- New Search Form -->
+        <form action="/search" method="POST" class="flex items-center space-x-4 mb-6">
+            <input type="text" name="query" class="w-full border border-gray-300 p-2 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500" placeholder="Enter new search query...">
+            <button type="submit" class="bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-600 transition duration-300">Search</button>
+        </form>
+
+        <!-- Heading -->
+        <h1 class="text-2xl font-semibold mb-6 text-gray-700">Showing results for "{{ query }}"</h1>
+
+        <!-- List of Results -->
+        <ul class="space-y-4">
+            {% for result in results %}
+            <li class="bg-gray-50 p-4 rounded-lg shadow-sm flex justify-between items-center hover:bg-gray-100 transition duration-300">
+                <div>
+                    <p class="font-bold text-lg text-gray-800">{{ result.filename.replace('.txt', '') }}</p>
+                </div>
+                <!-- View Document Button -->
+                <a href="{{ url_for('view_document', doc_id=result.filename) }}" class="bg-green-500 text-white py-2 px-4 rounded-md hover:bg-green-600 transition duration-300">View Document</a>
+            </li>
+            {% endfor %}
+        </ul>
+
+        <!-- Pagination Controls -->
+        <div class="mt-6 flex justify-between">
+            {% if prev_page %}
+            <a href="{{ url_for('search', query=query, page=prev_page) }}" class="bg-gray-300 text-gray-700 py-2 px-4 rounded-md hover:bg-gray-400 transition duration-300">Previous</a>
+            {% endif %}
+
+            {% if next_page %}
+            <a href="{{ url_for('search', query=query, page=next_page) }}" class="bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-600 transition duration-300">Next</a>
+            {% endif %}
+        </div>
+
+        <!-- Return to Home Button -->
+        <div class="mt-6 text-center">
+            <a href="/" class="bg-blue-800 text-white py-2 px-4 rounded-md hover:bg-blue-500 transition duration-300">Return to Home</a>
+        </div>
+    </div>
+
+</body>
+</html>

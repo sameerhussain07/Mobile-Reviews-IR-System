@@ -1,0 +1,309 @@
+﻿X
+
+Your GuideTo a Better Future
+
+Trending
+
+AI
+
+Tech
+
+VPN
+
+Streaming Services
+
+Mobile
+
+Home Entertainment
+
+Computing
+
+Services & Software
+
+Gaming
+
+All Tech
+
+Money
+
+Banking
+
+Credit Cards
+
+Mortgages
+
+Home Equity
+
+Taxes
+
+All Money
+
+Home
+
+Energy
+
+Electric Vehicles
+
+Home Security
+
+Smart Home
+
+Kitchen & Household
+
+Yard & Outdoors
+
+All Home
+
+Wellness
+
+Sleep
+
+Nutrition
+
+Fitness
+
+Personal Care
+
+All Wellness
+
+Home Internet
+
+Broadband
+
+By Location
+
+Internet Routers
+
+All Home Internet
+
+Deals
+
+Tech
+
+Home
+
+Wellness
+
+Coupons
+
+Gift Guides
+
+All Deals
+
+Cover Stories
+
+More
+
+Video
+
+Price Finder
+
+Editors' Choice
+
+CNET Voices
+
+All More
+
+Back
+
+apple event Tech Mobile
+
+iPhone 16 Pro Max Specs vs. Galaxy S24 Ultra: Big Phones Compared
+
+How do Apple's and Samsung's biggest, best phones compare? Here are all the specs.
+
+Andrew Lanxon Editor At Large, Lead Photographer, Europe
+
+Andrew is CNET's go-to guy for product coverage and lead photographer for Europe. When not testing the latest phones, he can normally be found with his camera in hand, behind his drums or eating his stash of home-cooked food. Sometimes all at once. Expertise Smartphones | Photography | iOS | Android | Gaming | Outdoor pursuits Credentials Shortlisted for British Photography Awards 2022, Commended in Landscape Photographer of the Year 2022 See full bio
+
+Andrew Lanxon
+
+Sept. 10, 2024 5:00 a.m. PT
+
+2 min read
+
+The iPhone 16 comes in four models and is now on sale through Apple, major retailers and carriers. Apple
+
+Earlier this week, Apple unveiled four iPhone 16 models (which are now open for preorder), four AirPods upgrades and a tenth anniversary Apple Watch update, the Series 10. The biggest phone in the bunch remains the iPhone 16 Pro Max, which will be going toe-to-massive-toe with Samsung's biggest flagship, the Galaxy S24 Ultra. Both phones have a lot to offer to those of you who love sizable devices, but how do the two compare on paper? Let's take a look at the specs. 
+
+Starting with the obvious part; the screen. Apple crept ahead here (assuming you think bigger is better, that is) upping its iPhone 16 Pro Max to 6.9 inches, over last year's 6.7 inches. At 6.8 inches, the S24 Ultra is ever so slightly smaller than Apple's phone, but I can't imagine you'd ever notice that 0.01-inch difference. The S24 Ultra does have a higher pixel density (501ppi vs. 460ppi) but we'll have to wait to see how they actually compare in use when we can put the two side by side. 
+
+See more: Apple iPhone 16 Pro Review: Compelling Upgrade With My Favorite iPhone Feature in Years
+
+Watch this: iPhone 16 Pro Max vs. Galaxy S24 Ultra: Spec Breakdown 08:23
+
+Samsung's phone is powered by a Qualcomm Snapdragon 8 Gen 3 chip, while Apple's phone runs on its own in-house silicon. In this case, a brand-new A18 Pro chip, which Apple promises will deliver better power efficiency and performance for gaming and AI. Given that the iPhone's consistently dominate benchmarks -- especially graphics ones -- it's fair to assume that the new chip will be a powerhouse. But it'll certainly be interesting to see how the scores stack up. 
+
+More from the Apple event Everything Apple Announced at Its iPhone 16 Event IPhone 16 Pro, Pro Max Fit Are the Biggest iPhones Ever Apple Watch Series 10 Arrives With Sleep Apnea Detection
+
+Watch this: Review: Apple's iPhone 16 Pro Is an Impressive Upgrade 12:06
+
+Turning to the rear cameras, the iPhone packs the usual trinity of main, ultrawide and 5x telephoto zoom lens, while the S24 Ultra hits back with its main, ultrawide, and 3x and 5x telephoto zooms. On paper, Samsung's phone should be the ultimate photography powerhouse -- especially with its whopping 200 megapixel main sensor -- but Apple's phones have always taken some of the best images around. The inclusion of ProRaw images and ProRes video -- including the new 4K slow motion shooting -- means that the iPhones will still be a top contender with enthusiastic photographers. 
+
+Check Out the iPhone 16 Pro Max's Cameras, Display and Colors
+
++9 More
+
+See all photos
+
+Looking to preorder the latest Apple devices? We're rounding up the best iPhone 16, Apple Watch Series 10 and AirPods 4 deals at launch. Beyond that, there's less to pick apart at this point. Both phones offer up to 1TB of storage, neither allows you to expand the storage and both use titanium in their designs, offering IP68 water resistance. How well the phones really compare remains to be seen in our full review.  iPhone 16 Pro Max specs vs. Galaxy S24 Ultra
+
+Apple iPhone 16 Pro Max Samsung Galaxy S24 Ultra
+
+Display size, tech, resolution, refresh rate, brightness 6.9-inch OLED Super Retina XDR display; 2,868 x 1,320 pixel resolution 6.8-inch AMOLED; 3,120x1,440 pixels; 1-120Hz adaptive refresh rate
+
+Pixel density 460 ppi 501 ppi
+
+Dimensions (inches) 6.42 x 3.06 x 0.32 inches 6.40 x 3.11 x 0.34 in.
+
+Dimensions (millimeters) 163 x 77.6 x 8.25mm 163 x 79 x 8.6 mm
+
+Weight (grams, ounces) 227 g, 7.99oz 233g (8.22 oz.)
+
+Mobile software iOS 18 Android 14
+
+Camera 48MP fusion camera, 48MP ultra-wide camera, 5X telephoto 200-megapixel (wide), 12-megapixel (ultrawide), 10-megapixel (3x telephoto), 50-megapixel (5x telephoto)
+
+Front-facing camera 12MP TrueDepth camera 12-megapixel
+
+Video capture 4K up to 120fps; spatial video at 1080p at 30fps 8K
+
+Processor A18 Pro Qualcomm Snapdragon 8 Gen 3
+
+RAM/storage 256GB, 512GB, 1TB 12GB RAM + 256GB, 512GB, 1TB
+
+Expandable storage No No
+
+Battery/charging speeds Up to 33 hours video playback; up to 29 hours video playback (streamed). 20W wired charging. MagSafe wireless charging up to 25W with 30W adapter or higher; Qi2 up to 15W 5,000 mAh
+
+Fingerprint sensor None (Face ID) Under display
+
+Connector USB-C USB-C
+
+Headphone jack No No
+
+Special features Apple Intelligence, Action Button, Camera Control button, 4x audio mics, Dynamic Island, 1 to 2000 nits display brightness range, IP68 resistance, titanium frame colors: Black Titanium, White Titanium, Natural Titanium, Desert Titanium Titanium frame, 2,600-nit peak brightness; 7 years of OS and security updates; 5G (mmWave); IP68 water and dust resistance; wireless PowerShare to charge other devices; integrated S Pen; UWB for finding other devices; 45W wired charging (charger not included); Galaxy AI; Wi-Fi 7; Gorilla Glass Armor cover glass
+
+US price off-contract $1,199 (256GB), $1,399 (512GB), $1,599 (1TB) $1,300 (256GB)
+
+UK price £1,199 (256GB), £1,399 (512GB), £1,599 (1TB) £1,249 (256GB)
+
+Australia price AU$2,149 (256GB), AU$2,499 (512GB), AU$2,849 (1TB) AU$2,199 (256GB)
+
+Mobile Guides
+
+Phones
+
+Best iPhone
+
+Best Galaxy S24 Deals
+
+Best Phone
+
+Best iPhone Deals
+
+Samsung Galaxy S24 Review
+
+Best Android Phones
+
+Best Samsung Galaxy Phone
+
+Pixel 8 Pro Review
+
+iPhone 15 Pro/Pro Max Review
+
+Best iPhone 15 Deals
+
+Foldable Phones
+
+Best Foldable Phones
+
+Galaxy Z Fold 5 Review
+
+OnePlus Open Review
+
+Best Galaxy Z Flip Deals
+
+Headphones
+
+Best Wireless Earbuds
+
+Best Noise Canceling Headphones
+
+Best Headphones
+
+Best Over Ear Headphones
+
+Best Wireless Earbuds and Headphones for Making Calls
+
+Best Headphones for Work at Home
+
+Best Noise Canceling Wireless Earbuds
+
+Best Sounding Wireless Earbuds
+
+Best Cheap Wireless Earbuds
+
+Best Wireless Headphones
+
+Mobile Accessories
+
+Best iPhone 15 Cases
+
+Best iPhone 14 Cases
+
+Best Power Bank for iPhone
+
+Best Airpods Pro Accessories
+
+Best Magsafe iPhone Accessories
+
+Best Speakerphone
+
+Best Wireless Car Charger and Mount
+
+Best iPhone Fast Charger
+
+Best Portable Chargers and Power Banks for Android
+
+Smartwatches
+
+Apple Watch Series 8 vs Series 7
+
+Best Apple Watch Bands
+
+Best Android Smartwatch
+
+Apple Watch Ultra Review
+
+Best Smartwatch
+
+Wireless Plans
+
+Best Prepaid Phone Plans
+
+Best Cheap Phone Plans
+
+Best Unlimited Data Plans
+
+Best Phone Plans
+
+Best Phone Plan Deals
+
+Best Senior Phone Plans
+
+Best Family Phone Plans
+
+Best Travel Phone Plans
+
+Best Verizon Plans
+
+Your guideto a better future
+
+Deals Reviews Best Products Gift Guide Coupons Videos Software Downloads About CNET Press Room Newsletters Sitemap Careers Cookie Settings Help Center Licensing Privacy Policy Terms of Use Do Not Sell or Share My Personal Information
+
+instagram youtube tiktok facebook x flipboard
+
+US France Germany Japan Korea
+
+© 2024 CNET, a Red Ventures company. All rights reserved.

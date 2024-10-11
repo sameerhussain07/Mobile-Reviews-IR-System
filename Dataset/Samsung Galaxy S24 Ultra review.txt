@@ -1,0 +1,151 @@
+Samsung Galaxy S24 Ultra review: The AI phone that saves you time There's much more to the Galaxy S24 Ultra than just the hardware
+
+Reviews
+
+By John Velasco
+
+last updated 31 July 2024
+
+Comments (2)
+
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+
+Editor's Choice
+
+(Image: © Future)
+
+Tom's Guide Verdict
+
+Even with a price increase, the Samsung Galaxy S24 Ultra proves its worth as one of the best phones, setting new records for a flagship phone in key areas such as battery life, screen brightness and processing performance. Add to that the slew of helpful Galaxy AI features packaged with the phone, and it's a powerhouse that will actually save you on time. TODAY'S BEST DEALS
+
+$599.99 at Amazon (128GB)
+
+$999.99 at Samsung (512GB)
+
+$1,149.99 at Best Buy (256GB)
+
+Pros
+
++Practical AI features
+
++Long-lasting battery endurance
+
++Incredible processing power
+
++7 years of software and security updates
+
++Sharp main camera
+
+Cons
+
+-Less detailed 5x telephoto camera
+
+-$100 price hike over S23 Ultra
+
+Why you can trust Tom's Guide
+
+Our writers and editors spend hours analyzing and reviewing products, services, and apps to help find what's best for you. Find out more about how we test, analyze, and rate.
+
+Jump to:
+
+Specs
+
+Release date and price
+
+Design
+
+Display
+
+Galaxy AI
+
+Cameras
+
+AI photo & video editing
+
+Performance
+
+Battery life and charging
+
+Software
+
+Review Updates
+
+Verdict
+
+The Samsung Galaxy S24 Ultra is here to try to reclaim the top spot among the best phones by offering things the iPhone 15 Pro Max lacks. This includes a ton of Galaxy AI features that can do everything from auto-summarizing your notes and moving subjects around in your photos to translating phone conversations in real time. 
+
+I’m a devout supporter of what AI can do with our phones, and after using the Pixel 8 Pro’s many AI-assisted features, I think it's clear that AI is where we'll see the next revolution with our mobile devices. Not surprisingly, the Galaxy S24 Ultra is marketing itself as the AI phone to beat in 2024. From its intuitive Circle to Search feature that can reveal what weed is growing in my backyard, to Chat Assist which automatically picks a better tone for my messages, these Galaxy AI features aim to simplify my life. At the same time, though, the Galaxy S24 Ultra's $1,299 asking price is $100 more than what you'd pay for a Galaxy S23 Ultra or iPhone 15 Pro Max. This also comes with the most controversial change to Samsung's phone: ditching the 10x optical camera of its predecessor with a less powerful, but sharper 50MP 5x telephoto lens. Usually I expect longer telephoto ranges with successive devices, so Galaxy AI will need to prove that software can makeup for the apparent lack of major hardware upgrades.
+
+In my Samsung Galaxy S24 Ultra review, I’ll dial into the practicality of the phone's new Galaxy AI features, assess how its new cameras compare against its predecessor and rivals, find out how long its battery lasts and ultimately determine if it’s worth the money.
+
+The SMARTEST Phone Ever? Samsung Galaxy S24 Ultra Review - YouTube
+
+Watch On
+
+Samsung Galaxy S24 Ultra review: Specifications
+
+Swipe to scroll horizontally
+
+Price $1,299 / £1,249 / AU$2,199
+
+CPU Snapdragon 8 Gen 3
+
+RAM 12GB
+
+Storage 256GB, 512GB, 1TB
+
+Display 6.8 inches QHD+ AMOLED (1-120Hz)
+
+Rear cameras 200MP main (f/1.7), 50MP 5x telephoto f/3.4), 10MP 3x telephoto (f/2.4) 12MP ultrawide (f/2.2)
+
+Front camera 12MP (f/2.2)
+
+Colors Titanium Black, Titanium Gray, Titanium Violet, Titanium Yellow,
+
+Battery 5,000 mAh
+
+Charging 45W
+
+Dimensions 6.40 x 3.11 x 0.34 inches
+
+Weight 8.22 ounces
+
+Samsung Galaxy S24 Ultra review: Release date and price
+
+(Image credit: Future)Preorders for the Galaxy S24 Ultra are available right now, with its general release date set for January 31. The $1,299 starting cost of the phone comes with 256GB of storage, while upgrading to the 512GB or 1TB models will cost $1,419 and $1,659 respectively. 
+
+That's certainly not cheap, though it's not the most Samsung has ever charged for a non-folding phone. Remember the Galaxy S20 Ultra launched at whopping $1,399 four years ago. Still, that's probably little comfort to someone in the here and now trying to justify paying $100 more for the Galaxy 24 Ultra over the iPhone 15 Pro Max. Samsung Galaxy S24 preoder deals take some of the sting out of the Ultra's price, with Samsung offering an upgrade to the next tier of storages at no extra cost. You can also get credit from Samsung by trading in your current device for a lower price on the S24 Ultra. Samsung Galaxy S24 Ultra review: Design
+
+(Image credit: Future)Look quick, and you might not notice the design changes Samsung made to the Galaxy S24 Ultra. Most notably, the new model ditches its predecessor's armor aluminum frame for a titanium one, which bolsters durability — and in this case, leads to a lighter package as well. On paper, the S24 Ultra's 8.22-ounce weight doesn’t seem like a tremendous difference over the S23 Ultra’s 8.25 oz weight, but the phone just feels less dense this time. Another change pertains to the end of an era for the series: its curved screen. I’m on the fence about this change because the curved screen of past Ultras gave the phone this slick looking aesthetic. Instead, the S24 Ultra adopts a flat display that hugs the edge of the titanium frame Samsung’s reasoning for this change pertains to the S Pen — the flatter panel makes it less likely for the stylus to fall over the edge. But then again, I end up using a case with my older, curvier Galaxy S Ultra that prevents this such thing from happening.
+
+(Image credit: Tom's Guide)The last and subtle change involves 42% slimmer bezels, according to Samsung's math. I only see it with the bottom portion of the display, since the rest of the bezels appear very similar to the Galaxy S23 Ultra. One of the disappointments that will probably go under the radar is how there’s no significant change to the S Pen. I was really hoping for Samsung to add something new to the fold here, seeing that the S Pen is one of the features that makes the Ultra distinctively different from everything else. Overall, I don’t love or hate the design, but at least there are far more color options to choose from versus other phones — like the titanium violet version of my review unit. On top of that, there are several cases at launch that sprinkle more utility to the phone, like the preview window of the S-View Wallet Case. Samsung Galaxy S24 Ultra review: Display
+
+(Image credit: Future)Over the years, I’ve been less concerned about the resolution of a flagship's display, mainly because today’s QHD+ resolution is more than adequate. That’s exactly what the Galaxy S24 Ultra is packing — a 6.8-inch QHD+ Dynamic AMOLED 2x display that is rich in detail, offers outstanding viewing angles and vibrant colors that make YouTube trailers like Furiosa jump out at me as I watch it.
+
+Swipe to scroll horizontally
+
+Galaxy S24 Ultra Display Test Results
+
+Row 0 - Cell 0 Galaxy S24 Ultra iPhone 15 Pro Max Galaxy S23 Ultra
+
+Max brightness (HDR) 1,363 nits 1,550 nits 1,225 nits
+
+sRGB 119% (Natural) / 139% (Vivid) 119% 112% / 193% (Vivid)
+
+DCI-P3 84.9 (Natural) / 98.5% (Vivid) 84.5% 78% / 136.7 (Vivid)
+
+Delta-E (lower is better) 0.23 (Natural) / 0.25 (Vivid) 0.14 0.3
+
+But of course, all that wouldn’t mean much if the new doesn’t beat its predecessor in the brightness department. Samsung's no different with the Galaxy S24 Ultra, which the company claims to have a rated brightness of 2,600 nits. I’m never one to believe the hype because these ratings often don't reflect their true-to-life behavior — which is why I place more emphasis on our actual testing. This is where it gets interesting because the Galaxy S23 Ultra reached a peak brightness output of 1,225 nits in Tom’s Guide’s display benchmark testing. It’s an improvement to 1,353 nits with the Galaxy S24 Ultra in our testing when displaying HDR content. That’s fantastic, and I didn’t have any issue watching YouTube clips or playing my mobile games outside with direct sunlight beating down on me. Samsung kept the S24 Ultra's display refresh rate to 1-120Hz, which is what I expect from a flagship today. Still, Samsung missed an opportunity to increase that refresh rate to perhaps 144Hz to further differentiate itself. Samsung is the first manufacturer to use Gorilla Armor Glass on a phone, and it's certainly made the Galaxy S24 Ultra tough according to durability tests. It also helps reduce glare from lights reflecting on the screen, which you may not see immediately when picking up the phone but is apparent when holding another phone with regular toughened glass next to it. Samsung Galaxy S24 Ultra review: Galaxy AI I’m well aware of Samsung’s history of throwing novel features into its phones. Remember the eye-scrolling feature of the Galaxy S4 or ticker display with the Samsung Continuum? I wouldn't think so, which proves my point that sometimes hyped features don’t turn out memorable. There’s very little doubt of AI permeating into everything in our lives, our phone included — which is why Samsung’s taking a proactive approach in giving its users access to new capabilities with Galaxy AI. Strangely enough, many of these AI-assisted features are in collaboration with Google, which raises the question of who’s really making the innovations here. There’s also a possibility that these AI features could change with Samsung’s website disclaimer saying: "Galaxy AI features will be provided for free until the end of 2025 on supported Samsung Galaxy devices. Different terms may apply for AI features provided by third parties." I’ve been able to test out all of the included Galaxy AI features on the Galaxy S24 Ultra, and here's what I think.  Circle to Search
+
+(Image credit: Future)Much like everyone, I find it annoying having to switch between Chrome and, say, Instagram when I’m trying to look up a type of cat from one of the many cat Instagram accounts I follow. Circle to Search eliminates the need to do this because a long press of the home button initiates the feature and I proceed to circle the object or subject with my finger — then the corresponding search results page will pop up as an overlay. The best part? I never have to leave the app I’m using to search, plus it works in every app. For example, I saw a photo posted by a friend on Instagram of a car that I didn’t recognize. With Circle to Search with the Galaxy S24 Ultra, I’m able to select while still being in the app and then it shows me search results on what it could be. In another example, I took a photo of this statue at Bryant Park and Circle to Search is able to not only tell me what it is, but also its location with Google Maps details. Chat Assist
+
+(Image credit: Tom's Guide)Built into the Samsung keyboard, Chat Assist can help you craft just the right message using the right tone. Think of it like an assistant who can tailor your messages so you sound professional when typing our emails to the boss, or a playful tone when chatting with your closest friends. It works as advertised and I’ve even chuckled on numerous occasions at Chat Assist’s professional tone because it makes me sound too formal. While I do appreciate the options for the tone of my messages, I don’t see it as a feature I’d use frequently. Live Translate
+
+(Image credit: Tom's Guide)Live Translate is one of the more practical Galaxy AI features I’ve tried out. It turns the Galaxy S24 Ultra into a translator during phone calls and supports 13 different languages out of the gate. This one’s a perfect showcase for the power of artificial intelligence because it’s doing translations in real time, with minimal delay. I tried it out with my colleague, who happens to speak Spanish. One thing I notice with Live Translate is that you have to be as basic or formal with your conversation because it gets tripped up when I sometimes speak too casually. There’s a slight latency that might make your conversation sound confusing, but I like how the translated conversation is displayed on the S24 Ultra screen. You can’t talk super fast either because the AI needs the time to understand what’s being said and then translate it to the appropriate language to the person on the other end of the line. While it’s not perfect, Live Translate provides a good foundation to making real time translation more practical. Live Translate also works in third-party apps I use, such as WhatsApp. The only other phone previous to this that offers real-time translation in third party apps is Google’s Pixel phones, so I’m excited that the Galaxy S24 Ultra has its own version. This saves me the hassle of copying and pasting my messages to another translation app, plus it will also translate my messages as well. Notes AI Features
+
+(Image credit: Future)I’m terrible at taking notes, so now I’m thrilled that the Galaxy S24 Ultra can do a lot of the work for me with its new Notes AI features — including the formatting and summary.  The autoformat feature appropriately adds bulleted headlines and short descriptions to my messy, disorganized notes, resulting in a cleaner, more organized list. I’m surprised by how the AI feature in Notes intelligently gathers all of my notes and formats them in a way it looks like I had a personal secretary write it all up. I tried this out in a recent zoom meeting for an upcoming product release. There's so much I can keep up with taking notes, but despite my disorganized notes that sometimes weren't complete, I was taken by surprise at how Galaxy AI organizes my notes complete with bold titles and corresponding bullet points. I also like how I have several formatting options to choose from, which saves me even more time later on when I'm sending it off in an email. Samsung Voice Recorder
+
+(Image credit: Future)Another useful Galaxy AI feature I’ve tested is the new AI features with Samsung’s Voice Recorder app. Much like the Recorder app on Google’s Pixel phones, the Samsung Voice Recorder app can transcribe recordings, label individual speakers and even summarize the entire thing into a TLDR styled bullet list. For anyone who frequently has work meetings or conducts interviews, this is an invaluable tool because it streamlines your workflow. When I use the S24 Ultra's Voice Recorder, I no longer need to waste time listening to the entire recording and typing out verbatim what people say — I can let Galaxy AI do it all for me — and I’m thrilled at how much time it saves me. In another virtual meeting I had with some colleagues, Galaxy AI was able to distinguish all the different callers in my meeting and it managed to do a decent job at transcribing their words. Some words didn't come out right, but I find the speakerphone more at fault because of its shrill tone. Once I finished recording, I used the Summary function to give me a formatted overview, which I then proceeded to add to Samsung Notes. I would say it works rather well and in my opinion, does a lot more than the Pixel 8 Pro's voice recording app. Samsung Galaxy S24 Ultra review: Cameras
+
+(Image credit: Future)Without question, the biggest controversy circling the Galaxy S24 Ultra centers around Samsung’s decision to ditch the 10x optical zoom camera of the S23 Ultra for a 5x optical one. That one key spec will cause people to think the new camera setup is technically inferior, but bear in mind that Samsung trades in the optical range for a higher resolution sensor — a 50MP sensor instead of a 10MP one, to be specific. The Galaxy S24 Ultra remains a formidable camera phone, consisting of a main 200MP camera boasting 60% larger pixels, a 12MP ultrawide camera, a 10MP telephoto lens with a 3X optical zoom, and that new 50MP telephoto camera with a 5X optical zoom we mentioned above.  That camera can still offer 10x zooms by taking a picture and then zooming in, as the resolution drops to 12MP. Samsung says that this approach on the S24 Ultra can deliver the same optical-quality performance as its predecessor, which doesn't surprise me. We’ve seen this executed on other phones with excellent zooming results — like the iPhone 15’s 2x telephoto zoom. Before I detail the new telephoto camera and whether Samsung made the wrong decision, I’ll explain how the phone's other cameras perform under different situations — along with side-by-side comparisons against the Galaxy S23 Ultra.

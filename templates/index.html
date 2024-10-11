@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile Phone Reviews</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+
+<body class="bg-gray-100">
+
+    <!-- Navbar -->
+    <nav class="bg-white shadow-md py-4">
+        <div class="container mx-auto flex justify-between items-center">
+            <h1 class="text-1xl font-bold text-gray-500">Mobile Reviews Hub</h1>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="bg-gradient-to-r from-blue-500 to-teal-400 py-16">
+        <div class="container mx-auto text-center">
+            <h2 class="text-5xl font-bold text-white mb-4">Explore the Latest Smartphone Reviews</h2>
+            <p class="text-white text-xl mb-6">Find out how the latest models compare and which one is right for you!</p>
+            <form action="/search" method="POST" class="mt-8">
+                <input type="text" name="query" placeholder="Search reviews..." class="w-full sm:w-96 px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:border-blue-500">
+                <button type="submit" class="bg-blue-500 text-white py-3 px-6 mt-4 rounded-lg shadow-md hover:bg-blue-600">Search</button>
+            </form>
+        </div>
+    </header>
+    
+
+    <!-- Reviews Section -->
+<section id="reviews" class="bg-gray-100 py-16">
+    <div class="container mx-auto">
+        <h2 class="text-center text-3xl font-bold mb-12">Latest Flagship Phones</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
+
+            <!-- iPhone 16 Pro Review -->
+            <div class="bg-white p-6 rounded-lg shadow-md text-center">
+                <div class="w-full h-64">
+                    <img src="https://cdn1.smartprix.com/rx-i5n1dTTOB-w1200-h1200/5n1dTTOB.jpg" alt="iPhone 16" class="w-full h-full object-contain rounded-md">
+                </div>
+                <h4 class="text-2xl font-semibold text-gray-800 mt-4">iPhone 16 Pro</h4>
+                <p class="text-gray-600 mt-4">The ultimate blend of power and design, with cutting-edge camera technology.</p>
+            </div>
+
+            <!-- Samsung S24 Ultra Review -->
+            <div class="bg-white p-6 rounded-lg shadow-md text-center">
+                <div class="w-full h-64">
+                    <img src="https://i5.walmartimages.com/seo/Samsung-Galaxy-S24-Ultra-5G-SM-S928B-DS-512GB-12GB-RAM-DUAL-SIM-Global-Model-Factory-Unlocked-GSM-Titanium-Gray_1e4840ab-5bd9-4483-b997-cec15dbd101f.2dc8593e555669c7dcad71a9ca89a863.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF" alt="Samsung S24 Ultra" class="w-full h-full object-contain rounded-md">
+                </div>
+                <h4 class="text-2xl font-semibold text-gray-800 mt-4">Samsung S24 Ultra</h4>
+                <p class="text-gray-600 mt-4">AI-enhanced camera features and top-tier performance make this a strong contender.</p>
+            </div>
+
+            <!-- Google Pixel 9 Pro Review -->
+            <div class="bg-white p-6 rounded-lg shadow-md text-center">
+                <div class="w-full h-64">
+                    <img src="https://d1eh9yux7w8iql.cloudfront.net/product_images/924567_03af9d13-2b82-46f1-8059-3b41d38811b7.jpg" alt="Google Pixel 9 Pro" class="w-full h-full object-contain rounded-md">
+                </div>
+                <h4 class="text-2xl font-semibold text-gray-800 mt-4">Google Pixel 9 Pro</h4>
+                <p class="text-gray-600 mt-4">Experience Google's best AI technology integrated into their flagship phone.</p>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 py-8">
+        <div class="container mx-auto text-center text-white">
+            <p>&copy; 2024 Mobile Reviews Hub. All rights reserved.</p>
+        </div>
+    </footer>
+
+</body>
+
+</html>

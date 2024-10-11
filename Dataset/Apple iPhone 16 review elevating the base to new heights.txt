@@ -1,0 +1,225 @@
+The line between standard iPhones and Pro models is getting increasingly blurred, as the base iPhone 16 is now a powerful pick that mixes affordability with a lot of newness. The range of available colors, including some strikingly vibrant options, make a great first impression, and the speed of Apple’s A18 platform, combined with two excellent cameras and an entirely new Camera Control button, make the iPhone 16 a great choice for folks who don’t need to go Pro. TODAY'S BEST DEALS
+
+$23.06 at AT&T Mobility (128GB)
+
+$829 at Straight Talk (128GB)
+
+$929 at Total Wireless (256GB)
+
+Pros
+
++Camera control changes the game, and content creators will love it
+
++A18 chip is plenty powerful
+
++Action button is a welcome addition
+
+Cons
+
+-Still just a 60Hz display
+
+-Not a major upgrade over the iPhone 15
+
+Why you can trust TechRadar
+
+We spend hours testing every product or service we review, so you can be sure you’re buying the best. Find out more about how we test.
+
+Jump to:
+
+Price and Availability
+
+Specs
+
+Design
+
+Display
+
+Software and Apple Intelligence
+
+Camera
+
+Performance
+
+Battery
+
+Should You Buy?
+
+Also Consider
+
+How I Tested
+
+Apple iPhone 16: Two-Minute Review Do you need to go Pro? That’s always been the question when new iPhones drop; and with the iPhone 16, it’s never been more burning. Apple has narrowed the gap between standard and Pro with this year's lineup, and it really comes down to whether you want the telephoto camera and superior screen of the Pro iPhones, and whether you need even more horsepower.
+
+I’ve spent a week with the iPhone 16, and it feels more Pro than I expected, starting with the A18 chip inside. Apple’s putting an all-new chip – not a hand-me-down from last year’s Pros – inside the iPhone 16. It makes everything about the iPhone 16 feel fast, from basics like email, browsing the web, or snapping photos to more advanced tasks like playing power-hungry games, editing photos or videos, and multitasking.  For the starting price, the iPhone 16 offers responsive performance to compete with rivals like the Galaxy S24 or Pixel 9. It’s not a night-and-day improvement over the iPhone 15 for say, video exports or gaming, but if your iPhone is any older than that, you will notice an improvement day-to-day.
+
+The 6.1-inch Super Retina XDR display still lacks ProMotion and always-on features. Seemingly, Apple thinks you should go Pro to get those, but I don’t think you’ll miss them much. Just like the iPhone 15, the iPhone 16 boasts up to 2,000 nits of brightness for use on sunny outdoor days. It’s also a great viewfinder for the 48-megapixel main camera, which has a better sensor than last year’s iPhone, and an improved 12-megapixel ultrawide camera that can now shoot macro photography. 
+
+The cameras are similar to the iPhone 15's, but the real reason to upgrade would be for the new Camera Control button if you’re into content creation. It’s a major enhancement, and lets you easily capture photos or record videos while intuitively adjusting settings along the way – just be ready to have to practice the difference between a light and a heavy touch on the technology-filled button … err, control.
+
+iOS 18 brings with it some fun new tricks, and a preview of Apple Intelligence shows that Apple isn’t yet shipping some of the most exciting promised features – and we don’t know when those will arrive – but the few that we’ve been able to test work nicely on the iPhone 16.  If you currently have an iPhone 15 and aren’t interested in Camera Control or Apple Intelligence, I’d say you can hold out this year. But if you have an older iPhone, you get the sum of the iPhone 16’s parts and the other enhancements that came before it, and that makes for a worthwhile upgrade.
+
+@techradar
+
+♬ original sound TechRadar
+
+Apple iPhone 16: Price and Availability Apple’s entire lineup of new iPhone’s – the iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max – are all up for preorder now and will officially land on September 20, 2024. That’s also when deliveries will first arrive and from that day on they will be on sale at Apple stores.  The iPhone 16 comes in Pink, Ultramarine, Teal, Black, or White. Its storage capacity starts at 128GB, but you can get up to 256GB or 512GB. In the box, you’ll get a white-braided USB-C to USB-C cable.  Regardless of color, the iPhone 16 costs $799 / £799 / AU$1,399 for 128GB of storage, $899 / £899 / AU$1,599 for 256GB of storage, and $1,099 / £1,099 / AU$1,949 for 512GB of storage. Apple iPhone 16: Specs
+
+Swipe to scroll horizontally
+
+iPhone 16
+
+Dimensions: 147.6 x 71.6 x 7.8mm
+
+Weight: 170g
+
+Display: 6.1-inch OLED
+
+Resolution: 2556 x 1179 pixels
+
+Refresh rate: 60Hz
+
+Chipset: A18
+
+Rear cameras: 48MP main (26 mm, f/1.6), 12MP ultra-wide (13 mm, f/2.2)
+
+Front camera: 12MP (f/1.9)
+
+Storage: 128GB, 256GB, 512GB
+
+Apple iPhone 16: Design
+
+(Image credit: Future) Color choices for the iPhone 16 might be the best of any iPhone Still feels like a modern iPhone, now with a redesigned camera stack Much lighter than the iPhone 16 Pro
+
+For most folks, you know an iPhone when you see one, and it’s an aesthetic that is instantly recognizable as Apple keeps honing. I’ve spent a week with the latest iPhone and it feels just like the iPhone 15 – it’s actually the same dimensions at 146.7 x 71.6 x 7.8mm, which also comes close to the measurements of the iPhone 14.  That’s not a bad thing. The iPhone 16 keeps the more modern build that the iPhone 15 ushered in with smooth, rounded edges and color-infused backs. However, rather than only offering light, pastel-y shades, Apple upped the vibrancy and delivered the best color lineup in ages.  I’ve got the Pink iPhone 16, and it’s a delight – it’s not quite hot pink like Barbie might choose, but it’s still a bouncy shade that pops a bit differently depending on how the light hits it. You can also get it in Teal, Black, White, or Ultramarine –- a mix of blues – and you can see the other colors in my iPhone 16 Plus review.  Along with the fresh colors, the back is home to the biggest design change. This is the only way that most folks will be able to tell the iPhone 16 from a previous one. The camera modules sit in a vertical orientation. The primary 48-megapixel Fusion camera sits atop the 12-megapixel ultrawide lens, stacked in a slightly raised glass bump that looks like a pill. The true tone flash is off to the side, but since Apple is sticking with larger lenses here, it’s like the iPhone X’s camera bump on steroids. I quite like this look. 
+
+(Image credit: Future)It’s not just for looks, though; this new orientation allows the iPhone 16 to capture Spatial Photos or Spatial Video for playback on the Apple Vision Pro. The stacked layout lets it capture proper stereo depth when shooting. There are two new buttons on the iPhone 16 this year: the Action Button that premiered on the iPhone 15 Pro has officially trickled down. It’s kind of a superhero, do-it-all button. You can pick from several presets to have it turn on the flashlight, start an accessibility feature, Shazam a song, or even open the camera … though I suspect that won’t get much use. More interestingly, you can set it up to run a Shortcut, which means it can really do anything. Using the Shortcut app on iOS, you can set up the ultimate smart home routine or have it start a group chain. Or you might be like me and have it play a specific version of Bruce Springsteen's “Born to Run.” While it is more advanced, I appreciate that the app contains a bunch of pre-made options – it lowers the difficulty level.
+
+(Image credit: Future)The Action Button lives right above the volume up and volume down buttons on the left-hand side of the iPhone 16, and I think it’s an excellent addition. You can also set it to just replace the mute switch, which is handy as that’s the spot where the switch used to be. The power button remains unchanged on the left-hand side, but towards the bottom is the “Camera Control.” While I’m tempted to call it a button, it is, in fact, much more than that with a ton of tech stacked on top, including haptics to help you feel a light press, a double press, a slide to left or right, and even a deeper press. It’s arriving on the iPhone 16 and 16 Plus, as well as the iPhone 16 Pro and 16 Pro Max.
+
+(Image credit: Future)The Camera Control is in the perfect spot, as it mirrors the shutter button on a traditional camera. When the iPhone 16 screen is off – I’m still sad it’s not always on – you can press Camera Control once wake up the phone and a second time to open the Camera. You can Camera Control to take a shot or double-press lightly to pull up settings. Then, if you select zoom, you can swipe left or right to zoom in or out. I’ll dive into this a bit more below, but it’s quite possibly the best addition to arrive on the iPhone, and I think Apple recognizes just how many photos are taken with its phone every day, week, month, and year. Between the new inputs, camera module redesign, and new colors, the iPhone 16 feels like a breath of fresh air for the modern iPhone. It’s not a whole new look, but it’s more than just one iterative change. Design score: 4.5 / 5 Apple iPhone 16: Display
+
+(Image credit: Future) Gets bright enough to combat a sunny day or stark indoor lighting Still no 120Hz ProMotion or Always-On functionality Dynamic Island is even more useful with more apps offering Live Activities
+
+The iPhone 16 has the same display as the iPhone 15, and that’s not necessarily bad. It’s still a 6.1-inch Super Retina XDR OLED display that offers punchy, vibrant colors, stark contrast points, and inky blacks for reading text. While you may never need it, the display can also hit 2,000 nits at peak brightness, which means it can get really bright – like bright enough to be used on a sunny day on the beach or under harsh fluorescent lights. The iPhone 16 has a familiar resolution of 2556 x 1179 at 460 pixels per inch, just like the iPhone 15. For taking and viewing photos, playing games, watching TikToks, browsing the web, and streaming Emily in Paris, everything looked great on the iPhone 16’s screen. I regularly drive an iPhone 15 Pro Max, which boasts an always-on display and ProMotion (aka a 120Hz refresh rate). The iPhone 16 is not only easier to hold in just one hand than supersized iPhones like the iPhone 16 Plus, but it’s enjoyable to use daily. The iPhone 16 also sticks with a pill-shaped notch called the Dynamic Island, and I’m a huge fan of the versatility here. iOS has visual feedback called Live Activities that can live on top of the Dynamic Island, so you can quickly dismiss a timer after watching it count down at the top, or get music playback controls complete with colors that match the album artwork and waveform of the audio.  Third-party applications like Flighty can take over the Dynamic Island to show you how much time is left before you land or, on the ground, until you start boarding. It’s super functional and contains the Face ID sensors for securely unlocking and authenticating your phone. The 12-megapixel front-facing camera is also on the Dynamic Island for selfies, video calls, or recording your next trending TikTok. Like the iPhone 15, the Super Retina XDR display is not always on and does not support ProMotion, Apple’s name for a 120Hz screen. I don’t think either of these will really be a bother unless you’re coming from a device that had those features. I’ve used 120Hz screens, but I didn’t notice the iPhone 16 slowing down with scrolling, video playback, or gaming. It feels quite responsive and, again, I really did enjoy the viewing experience here. Considering that Apple has promoted always-on and ProMotion to the Pros, I wouldn’t expect to see them arrive for some time. Yes, other phones in this price range offer 120Hz refresh on the display and always-on features with LTPO technology, but unless you’ve used them before, you won’t miss them. You might miss them out of spite, but not in use. Display score: 4 / 5 Apple iPhone 16: Software and Apple Intelligence
+
+(Image credit: Future) iOS 18 lets you customize even more of the iPhone experience Passwords app is a great addition Apple Intelligence is arriving soon with some useful features
+
+I’m happy that iPhone 16 is powered by the A18 processor and not last year’s A17 Pro as iOS 18 has a whole lot of features and Apple Intelligence is right around the corner with iOS 18.1 (expected to arrive next month, October 2024). iOS 18 doesn’t redesign the iPhone’s operating system, but it adds a lot of good stuff. For one, the app grid is now flexible, and you can place app icons with spaces between them or even use empty rows. You can also apply a color tone to all your apps, and for the dark mode lovers out there, you can set apps to always appear in that shade.  The Passwords app is a really welcome addition as it moves your saved logins out of Settings and into a dedicated space. You can save any and all accounts – previous passwords stored within the iCloud keychain will appear here – as well as Wi-Fi credentials, and you can share with friends or family. It’s an iOS sleeper hit. Finally, RCS messaging support is here, which makes it easier to text with friends who don’t have an iPhone. You can now schedule iMessages to be sent in the future, a feature I especially like. If you know you need to send a message, you no longer need to make a note and then remember to send it later.  These are just a few of the things that iOS 18 enables, but I encourage you to check out TechRadar’s other pieces here. It’s modern software that matches the hardware. Of course, we also have Apple Intelligence, and it’s coming in hot. It was a key focus when Apple unveiled the iPhone 16 as the first iPhone built from the ground up for Apple Intelligence.  I’ve been able to play with some of the forthcoming features – like Writing Tools, Clean Up in Photos, and Summarization – within the developer beta of iOS 18.1. I’m not speaking to performance here, as bugs and slowdowns are expected with any beta, but let me peel back the curtain a bit and talk about what you can expect. For one, I’ve tried the redesigned Siri and I love the colorful screen takeover effect. Gone is the floating orb at the bottom, and now a rainbow-hued edge wraps around the iPhone 16's 6.1-inch display. It’ll continue glowing while listening and responding, and while it isn’t fully context-aware of what’s on your screen, Apple’s assistant is better at understanding the nuances of conversation. You can also double-tap at the bottom should you want to type to Siri.  My favorite Apple Intelligence experience is the notification summaries. If you’re in a big group chat with college friends and you constantly get pings, Apple Intelligence will summarize and group them together. The summaries are sometimes comically inaccurate, but more times than not it’s been quite helpful. The best part is that Apple Intelligence is not just for messages; it will try to summarize all notifications. I really wish that Apple’s “Writing Tools” were more front-and-center. To find Writing Tools, when you draft a message you need to select all the text, then click the Apple Intelligence icon if it shows up at the top of the keyboard. It’s buried a bit, and the results vary. The most fun elements of Apple Intelligence, like Image Playground, Genmoji, context-aware Siri, and countless others, are not here yet. Neither is Visual Intelligence, which is essentially Apple’s take on Google Lens, though a bit more actionable. It is still forthcoming.  Thus far, the limited Apple Intelligence features available on the iPhone 16 run very well on this phone. Clean Up can finish removing someone from the background of a photo faster on my iPhone 16 than on my iPhone 15 Pro Max, so I think the iPhone 16’s A18 processor will be plenty powerful for the eventual tidal wave of Apple Intelligence features. Software score: 4 / 5 Apple iPhone 16: Camera
+
+(Image credit: Future) Still a two camera setup Changes to image processing deliver an improvement in clarity and low-light performance Camera Control is an excellent addition, which avid photographers will love
+
+With the iPhone 16 family, Apple’s been focusing on leveling the playing field and closing the gap between non-Pros and Pros. That trend clear with the cameras and heralded by Camera Control launching on all the iPhone 16 models. Of course, what’s a camera control without cameras to capture content? For the iPhone 16 and iPhone 16 Plus, Apple is sticking with two cameras: a 48-megapixel Fusion and a 12-megapixel ultrawide. Both are similar to the main and ultrawide on the iPhone 15 Pro and iPhone 15 Pro Max, but are aided in performance by the new image pipeline on the A18 chip. Technically, you can shoot from 0.5x ultrawide all the way up to a 2x telephoto, or go all the way to 10x digital zoom. It’s not as versatile as the iPhone 16 Pro or Pro Max, considering those both have real optical zoom, but the camera is no slouch here. Whether I used it to capture cityscapes, portraits of humans and dogs, or mixed lighting at a concert, the iPhone 16 was up for the challenge.  I particularly like the clarity and level of detail that the iPhone 16’s main camera provides—the “Fusion” nomenclature is twofold, as it combines every four pixels into one, delivering 48-megapixel quality in a 24-megapixel default-size image.  You can shoot with 48-megapixels, but if you pick the 128GB storage option, you may want to reserve that for special shots. The 24-megapixel shots, which you can see below, are rich with details and especially good at providing a natural bokeh around an object.  I also appreciate that the iPhone 16 is a bit better than the iPhone 15 and much better than the previous models at handling light flares at night, thanks to a new anti-reflective coating. You can also get closer without physically moving as there is 2x telephoto option, which basically zooms in using the 48-megapixel full-size sensor. It’s a nice way to frame portraits or focus attention. The 12-megapixel ultrawide is still a unique way to frame shots and capture a good amount of detail without crazily obscuring the corners or edges. It boasts a faster f/2.2 aperture vs. last year’s f/2.4 ultrawide, and allows more light to be captured, making it better for nighttime shooting. I especially like that Macro photography is now on the base model iPhone 16 and 16 Plus. It’s a very fun shooting mode, and I got closer to nature and discovered hidden elements in objects. I also appreciate that you can turn this on by default or manually enable it. All-in-all, the iPhone 16 is a powerful camera, and it’s made better by the Camera Control. It took me a few days to get used to the new control, these learning how much pressure to apply and figuring out that there are hidden menus. I’ve gotten used to it and like that it’s in a natural position that lets me snap a shot with ease.
+
+(Image credit: Future)When taking photos, you can perform two light presses to see more advanced options, including exposure, depth, zoom, camera, styles, and tone. You can click into any of these and then adjust by swiping through presets to make adjustments. When you engage the Camera Control, the interface gets much cleaner, leaving just the digital shutter button. Folks who love taking photos or recording videos will be right at home with Camera Control. Give it a few days, but it can be a great tool when you learn the various sub-menus for capturing a shot and making minute adjustments. I enjoyed using it at the Sea Hear Now Festival to quickly zoom in on the stage or swipe back to get an ultra-wide to capture the crowd. Even better, I jumped into styles to get a cool shot in black and white. I unpack this more in my iPhone 16 Plus review, but the Camera Control is an excellent addition that highlights how impactful the iPhone can be for capturing photos and videos and memories. Apple isn’t the first and won’t be the last to add a super-charged shutter button to a phone. But it’s a very Apple approach to layer Camera Control with technology like a force sensor and taptic engine with a touch surface and a sapphire crystal finish. It feels super high-end, even on the affordable iPhone 16, and I could see a lot of folks upgrading just for more minute control over the camera. If you’re getting a case, it pays to get one that isn’t simply a cutout but has the proper tech embedded to match the sapphire crystal – I like Apple's own Silicon solution, the Otterbox Lumen or the new Beats by Dre iPhone cases. iPhone 16 camera samples
+
+Image 1 of 15
+
+(Image credit: Future/Jacob Krol)
+
+(Image credit: Future/Jacob Krol)
+
+(Image credit: Future/Jacob Krol)
+
+(Image credit: Future/Jacob Krol)
+
+(Image credit: Future/Jacob Krol)
+
+(Image credit: Future/Jacob Krol)
+
+(Image credit: Future/Jacob Krol)
+
+(Image credit: Future/Jacob Krol)
+
+(Image credit: Future/Jacob Krol)
+
+(Image credit: Future/Jacob Krol)
+
+(Image credit: Future/Jacob Krol)
+
+(Image credit: Future/Jacob Krol)
+
+(Image credit: Future/Jacob Krol)
+
+(Image credit: Future/Jacob Krol)
+
+(Image credit: Future/Jacob Krol)
+
+Camera score: 4.5 / 5 Apple iPhone 16: Performance
+
+(Image credit: Future) The A18 provides the iPhone 16 with plenty of power, likely for years to come Improved GPU makes intense games and intense creative use cases fly here The iPhone 16 is ready for future Apple Intelligence features
+
+Considering that the standard iPhones have received the last year’s processor for the last few years, it’s good news and a welcome surprise that the iPhone 16 is getting a brand-new platform. The Apple-made A18 powers the smaller 6.1-inch iPhone 16 and the bigger 6.5-inch iPhone 16 Plus. And if you were impressed by the forthcoming Apple Intelligence features, know that the A18 has a sizable Neural Engine to help power all your AI processes… well, at least the ones that stay on the device.  Making up the A18 is a 6-core CPU comprised of 4 efficiency cores and 2 performance cores, a 5-core GPU, and a 16-core Neural Engine. That’s all paired with 8GB of RAM, to help with everyday tasks, more creative ones, gaming, and even Apple Intelligence tools like Clean-Up in Photos or Writing Tools.  This all comes together for a fast experience whether I tried those basic tasks that I expect an iPhone to hit out of the park or more advanced chores like exporting a 4K video in CapCut, playing a AAA title like Resident Evil, or remixing audio in the Photos app. Whether browsing the web, picking songs in Nugs.net or Apple Music, streaming the latest episode of Futurama on Disney+, drafting this review, or opening any number of apps, I couldn’t make the iPhone 16 slow down. Not even when I tossed a FaceTime on top. The phone did get hot during some AAA gaming, but it did not get slower. For games, whether Assassin's Creed or Asphalt 9, the improved GPU of the A18 made the experience even more immersive with smooth gameplay and the ability to see extra details. I’ll be curious to see future titles take advantage of this extra horsepower, and it could make the argument even stronger for gaming within the Apple ecosystem. Of course, you won’t get a 120Hz refresh rate on this phone.  I’ve been impressed with performance day in and day out for over a week on the iPhone 16 – it feels efficient, smooth, and has the proper amount of speed for the cost. From a quantitative perspective, the iPhone 16 scored a 3,301 on Geekbench 6 single-core and 8,033 on multicore, which beats the current Android champs, like the Samsung Galaxy S24 Ultra.  Safe to say, the A18 is plenty powerful, and I suspect it will offer plenty of headroom for years. It also puts the standard iPhones closer to the Pros than ever – and that’s before you throw in Camera Control, great colors, and Apple Intelligence. Performance score: 4.5 / 5 Apple iPhone 16: Battery
+
+(Image credit: Future) Like the iPhone 15, the iPhone 16 delivers all-day battery life Support for faster wired and wireless charging is a welcome addition
+
+Just like with iPhone 15, and every iPhone before that, Apple does not publicly share the battery size for any of its phones – or most of its products. We’ll wait until somebody else tears one apart to get the answer in mAh. Rather, Apple says the iPhone 16 should last for up to 22 hours of local video playback, up to 18 hours of video playback if streamed, and up to 80 hours of audio playback. That’s an additional 2 hours of video playback over the iPhone 15.  Considering those are specific use cases, I’m here to tell you that the iPhone 16 can get you through a full day, from morning to evening, even under more intensive use. After a few days of use I’d estimate 15 to 16 hours of screen time before I needed to recharge my iPhone 16.  You can, of course, engage low power mode to stretch it a bit more and stop it from constantly refreshing in the background. On Future Lab’s battery rundown test, the iPhone 16 lasted for 12 hours and 43 minutes, which is a decent amount of time, but not the best I’ve seen.  On a particularly busy day at a festival filled with a lot of photo capture and video recording, I did need to recharge my iPhone 16 after about 8 hours of use. So, more intense tasks will eat the battery faster. Luckily, it still comes with a braided USB-C to USB-C cable in the box, and you can fast-charge the iPhone 16. I was able to get it from 0% to 48% in about 30 minutes with a standard 20-watt adapter, but plugging it into a 35-watt charger did get to 51% in 30 minutes. The iPhone 16 also has some new wireless charging tech with support for the new MagSafe charger and the Qi2 standard – you can get up to 25W with MagSafe and up to 15W with Qi2. You’ll also want to pair either of those with at least a 30-watt adapter. I did notice with either wireless charging platform, the iPhone 16 did get a bit warmer than with a wired charge. Battery score: 4 / 5 Apple iPhone 16: Should You Buy? iPhone 16 score card
+
+Swipe to scroll horizontally
+
+Attributes Notes Rating
+
+Design Not only does the iPhone 16 feel great in the hand with extra ergonomics, the camera layout looks the part, and the color palette is terrific. 4.5 / 5
+
+Display While it’s not ProMotion or Always-on, the iPhone 16 still offers a vibrant screen that is great for myriad tasks indoors or outdoors. 4 / 5
+
+Performance With the new A18 inside, the iPhone 16 feels like it can keep up with the Pros. 4.5 / 5
+
+Camera The new Camera Control steals the attention and lets you get more out of an excellent main camera and a good ultrawide shot that allows for unique framing. 4.5 / 5
+
+Software iOS 18 provides many small updates, and once Apple Intelligence is here, it will be supported. 4 / 5
+
+Battery You can expect around a day of use from the iPhone 16, but it won’t stretch to two. 4 / 5
+
+Value The standard 16 feels more like a Pro, and even with only 128GB of storage, it’s good value. 4 / 5
+
+Buy it if..
+
+You want an affordable, smaller iPhone At $799 and with a 6.1-inch display, the iPhone 16 is an excellent option for those who don’t want to use two hands or spend a ton. It offers some really nice features and will support Apple Intelligence.
+
+You want more control for taking photos Camera Control isn’t just a buzzword, but what makes shooting photos and adjusting on the fly a bit easier. If you love taking photos with your iPhone or recording videos, it is an excellent upgrade.
+
+Don’t buy it if...
+
+You’re happy with an iPhone 15 If you aren’t desperate for a new button to take photos and Apple Intelligence isn’t calling your name, you don’t need to upgrade to the iPhone 16.
+
+You want a bigger screen If you want a larger display, consider the iPhone 16 Plus, which boasts a 6.7-inch Super Retina XDR display.
+
+You want a true zoom lens The iPhone 16 tops out at 2x telephoto or 10x digital zoom, so if you want to zoom in farther with more clarity, look at the iPhone 16 Pro, Galaxy S24 Ultra, or the Pixel 9 Pro.
+
+Apple iPhone 16: Also Consider
+
+iPhone 16 Pro With a triple camera array, the A18 Pro, and a titanium build, the iPhone 16 Pro is similar in size to the standard 16 with more horsepower and a larger screen. Read TechRadar's iPhone 16 Pro review here.
+
+Google Pixel 9 If you're alright with Android, consider Google's brand new Pixel 9 which boasts a modern design, two very capable cameras, and the latest Tensor power from Google. There is also no waiting for AI features as many are available out of the box. Read TechRadar's Google Pixel 9 review here.
+
+Apple iPhone 16: How I Tested I've been reviewing phones for years, including the iPhone since the iPhone 8, iPhone 8 Plus, and iPhone X. To complete this review, I've been using the iPhone 16 in Pink for over a week as my daily driver. I transferred my phone number via e-sim from my iPhone 15 Pro Max and began to set up the iPhone 16 as new.  During my time with it, I tried to test out every facet of the phone, from making calls to playing games, productivity tasks, taking tons of photos and videos, FaceTime calls, and much more. To test performance, I performed both qualitative and quantitative tests, including GeekBench 6. For battery life, I marked how the percentage dropped over the day and what type of tasks I was completing. The team at Future Labs US conducted a battery test.  For the camera, I took many photos and videos utilizing all the different modes, including 0.5x, 1x, 2x, Portrait, Macro, and Panorama. I also took comparison photos with an iPhone 15 Pro Max, iPhone 15, and iPhone 15 Plus. For video, I filmed using all the available recording options and tested the new editing features, including audio mix and slowing down 4K recordings. I compared daily usage results with other phones, both iPhone and Android and tried to ultimately use them as I would use my phone daily. With iOS 18.1 and trying out Apple Intelligence, I focused on the features currently available and how they performed. Read more about how we test First reviewed September 2024.
+
+Apple iPhone 16: Price Comparison
+
+$23.06 View
+
+$23.06 View
+
+$829 View
+
+$929 View
+
+No price information Check Amazon
+
+Show More Deals
+
+We check over 250 million products every day for the best prices
+
+powered by
+
+Jacob Krol Social Links Navigation
+
+US Managing Editor News
+
+Jacob Krol is the US Managing Editor, News for TechRadar. He’s been writing about technology since he was 14 when he started his own tech blog. Since then Jacob has worked for a plethora of publications including CNN Underscored, TheStreet, Parade, Men’s Journal, Mashable, CNET, and CNBC among others. 
+
+He specializes in covering companies like Apple, Samsung, and Google and going hands-on with mobile devices, smart home gadgets, TVs, and wearables. In his spare time, you can find Jacob listening to Bruce Springsteen, building a Lego set, or binge-watching the latest from Disney, Marvel, or Star Wars.
+
+More about apple iphone 16
+
+The iPhone 16 got a new Camera Control button, so what more do you want?! As a photographer, the iPhone 16’s new Camera Control button has captured my attention – here’s why
